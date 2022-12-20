@@ -1,0 +1,4 @@
+virtualmachines:
+  hosts:
+    gnuradio:
+      ansible_host: gnuradio
